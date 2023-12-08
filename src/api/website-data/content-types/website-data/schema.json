@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "website_all_data",
+  "info": {
+    "singularName": "website-data",
+    "pluralName": "website-all-data",
+    "displayName": "Website data "
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AboutUs": {
+      "type": "text"
+    }
+  }
+}
